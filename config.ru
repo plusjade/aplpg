@@ -1,2 +1,2 @@
-require 'template'
+require 'start'
 run Sinatra::Application
