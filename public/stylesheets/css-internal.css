@@ -69,12 +69,17 @@ body {
 /* MAIN CONTENT */
 
 #wrapper #content #main-internal {
+	width:670px;
+	float:right;
 	border-left:2px solid #f4f4f4;
 	padding-left:25px;
-  width:800px;
+	display:inline;
   min-height:600px;	
 }
-
+.products-wrapper {
+  float:left !important;
+  width:800px !important;
+}
 
 /* GENERAL */
 
