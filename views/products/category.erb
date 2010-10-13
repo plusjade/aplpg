@@ -1,0 +1,13 @@
+<div id="main-internal" class="products-wrapper">
+  <%= erb :"products/breadcrumbs" %>
+
+	<ul id="categories">
+	<% @category.subcategories.each do |sub| %>
+	  <li>
+	    <a href="<%= @category.url + sub.url %>"><%= sub.name %></a>
+	  </li>
+	<% end %>
+	</ul>
+	
+	
+</div>

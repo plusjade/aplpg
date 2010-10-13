@@ -1,0 +1,11 @@
+<div id="menu">
+	<ul>
+  <% @pages.each do |p|  %>
+    <% if p == @active_page %>
+  		<li><a href="/<%= p %>" class="current"><%= p.capitalize %></a></li>
+    <% else %>
+  		<li><a href="/<%= p %>"><%= p.capitalize %></a></li>	
+		<% end %>
+	<% end %>
+	</ul>
+</div>

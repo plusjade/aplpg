@@ -1,0 +1,46 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <title><%= @page_title %> | All Propane LPG</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <meta name="description" content="<%= @meta %>" />
+  <link rel="stylesheet" href="/stylesheets/css.css" type="text/css" />
+  <link rel="stylesheet" href="/stylesheets/css-internal.css" type="text/css" />
+  <!--[if IE 6]>
+  <link rel="stylesheet" href="/stylesheets/cssIE6.css"  />
+  <![endif]-->
+
+  <!--[if IE 7]>
+  <link rel="stylesheet" href="/stylesheets/cssIE7.css"  />
+  <![endif]-->
+</head>
+
+<body>
+
+  <div id="wrapper">
+
+  	<div id="header">
+  		<div id="menu-outter">
+  			<a href="index"><img src="/images/logo.jpg" alt="All Propane LPG" class="logo" /></a>
+  		  <%= erb :navigation %>
+  		</div>
+	
+  		<div id="page-name">
+  				<h1><%= @page_title %></h1>
+  				<p><%= @page_subtitle %></p>
+  		</div>
+		
+  	</div>
+	
+  	<div id="content">
+  	  <%= @content %>
+  	</div>
+	
+  </div>
+
+  <div id="footer">
+  	<p>Copyright © 2010 All Propane LPG. All Rights Reserved.</p>
+  </div>
+
+</body>
+</html>

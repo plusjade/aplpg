@@ -1,0 +1,126 @@
+body {
+	background:url(/images/bg-internal.jpg) repeat-x;
+}
+
+/* HEADER */
+
+#wrapper #header {
+	width:980px;
+	height:300px;
+	background:url(/images/bg-header-internal.jpg);
+}
+
+#wrapper #header #page-name h1 {
+	clear:both;
+	font:bold 28px Arial, Helvetica, sans-serif;
+	color:white;
+	margin-top:45px;
+	margin-left:10px;
+}
+
+#wrapper #header #page-name p {
+	margin-top:10px;
+	margin-left:10px;
+	color:white;
+}
+
+/* CONTENT */
+
+#wrapper #content {
+	width:980px;
+	float:left;
+	margin-top:20px;
+	padding-bottom:20px;
+}
+
+
+/* SIDEBAR */
+
+#wrapper #content #sidebar {
+	width:250px;
+	float:left;
+	display:inline;
+}
+
+
+/* SUB-NAVIGATION */
+
+#wrapper #content #sidebar .sub-navigation  {
+	margin-bottom:30px;
+}
+
+#wrapper #content #sidebar .sub-navigation ul li a {
+	font:12px Arial, Helvetica, sans-serif;
+	color:gray;
+	text-decoration:none;
+	padding:10px;
+	display:block;
+	border-bottom:1px solid #f4f4f4;
+}
+
+#wrapper #content #sidebar .sub-navigation ul li a:hover {
+	background:#FCFCFC;
+	color:gray;
+	border-left:5px solid #000000;
+	text-indent:5px;
+}
+
+
+/* MAIN CONTENT */
+
+#wrapper #content #main-internal {
+	border-left:2px solid #f4f4f4;
+	padding-left:25px;
+  width:800px;
+  min-height:600px;	
+}
+
+
+/* GENERAL */
+
+h2 { 
+	font:bold 22px Arial, Helvetica, sans-serif;
+	color:#000000;
+	border-top:3px solid #f4f4f4;
+	border-bottom:1px solid #f4f4f4;
+	padding-top:5px;
+	padding-bottom:5px;
+	margin-bottom:10px;
+}
+
+.list-int {
+	display:inline-block;
+	margin-bottom:15px;
+}
+
+.list-portfolio {
+	display:inline-block;
+	margin-bottom:15px;
+	float:left;
+	width:213px;
+	margin-right:8px;
+}
+
+
+#categories {
+  line-height:1.5em;
+  color:#333;
+}
+#products-breadcrumb {
+  list-style:none;
+  
+	font:bold 16px Arial, Helvetica, sans-serif;
+	color:#000000;
+	border-top:3px solid #f4f4f4;
+	border-bottom:1px solid #f4f4f4;
+	padding-top:5px;
+	padding-bottom:5px;
+	margin-bottom:10px;
+}
+#products-breadcrumb li {
+  display:inline;
+  margin-right:15px;
+}
+#products-breadcrumb li a {
+  /*text-decoration:none;*/
+}

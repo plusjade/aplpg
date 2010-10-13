@@ -1,0 +1,13 @@
+<ul id="products-breadcrumb">
+  <li><a href="/products">Main Categories</a></li>
+  <% if @category %>
+    <% if @subcategory %>
+      <li><a href="<%= @category.url %>"><%= @category.name %></a></li>
+    <% else%>
+      <li><%= @category.name %></li>
+    <% end %>
+  <% end %>
+  <% if @subcategory %>
+    <li><%= @subcategory.name %></li>
+  <% end %>
+</ul>

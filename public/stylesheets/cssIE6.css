@@ -1,0 +1,33 @@
+#wrapper #header .logo {
+	float:left;
+	
+}
+
+#wrapper #header #menu ul  {
+	position:absolute;
+	margin-top:0px;
+}
+
+
+#wrapper #header #slider-outter {
+	margin-right:32px;
+}
+
+#wrapper #header #slider-outter #cu3er-container {
+	margin-top:63px;
+
+}
+
+#wrapper #content #sidebar #sub-navigation  {
+	margin-bottom:20px;
+}
+
+
+#wrapper #content #sidebar #sub-navigation ul li a {
+	height:10px;
+}
+
+
+.img-inside {
+	margin-right:0px;
+}

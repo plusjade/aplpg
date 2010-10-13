@@ -1,0 +1,85 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <title><%= @page_title %> | All Propane LPG</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <meta name="description" content="<%= @meta %>" />
+  <link rel="stylesheet" href="/stylesheets/css.css" type="text/css" />
+  <!--[if IE 6]>
+  <link rel="stylesheet" href="/stylesheets/cssIE6.css"  />
+  <![endif]-->
+
+  <!--[if IE 7]>
+  <link rel="stylesheet" href="/stylesheets/cssIE7.css"  />
+  <![endif]-->
+
+  <script type="text/javascript" src="/javascripts/jquery.js"></script>
+  <script type="text/javascript" src="/javascripts/jquery.flow.1.2.auto.js"></script>
+  <script type="text/javascript">
+    $(function(){
+      $("#slider_nav").jFlow({
+        slides: "#cu3er-container",  // the div where all your sliding divs are nested in
+        controller: ".jFlowControl", // must be class, use . sign
+        slideWrapper : "#jFlowSlide", // must be id, use # sign
+        selectedWrapper: "jFlowSelected",  // just pure text, no sign
+        auto: true,
+        width: "100%",  // this is the width for the content-slider
+        height: "275px",  // this is the height for the content-slider
+        pauseTime: 6000, // time between slide transitions (pauses at slide)
+        duration: 1500,  // time in miliseconds to transition one slide
+        prev: ".jFlowPrev", // must be class, use . sign
+        next: ".jFlowNext" // must be class, use . sign
+      });
+    });
+  </script>
+</head>
+<body>
+
+  <div id="wrapper">
+
+  	<div id="header">
+  		<div id="menu-outter">
+  			<a href="index.html"><img src="/images/logo.jpg" alt="Clean Business" class="logo" /></a>
+        <%= erb :navigation %>
+  		</div>
+			
+  		<div id="slider-text">
+  				<h1>All Propane LPG</h1>
+  				<p>
+  				  Specializing in liquefied petroleum gas (LP-Gas) products, parts, and accessories.
+  				</p>
+  		</div>
+
+  		<div id="slider-outter">
+  			<div id="cu3er-container">
+  			  <div class="slides"><img src="/images/home/blackmer_pumps.jpg" alt=""/></div>
+  			  <div class="slides"><img src="/images/home/mr.heater.jpg" alt=""/></div>
+  			  <div class="slides"><img src="/images/home/meters.jpg" alt=""/></div>
+  			  <div class="slides"><img src="/images/home/uei_combustible_gas_leak_LSS_iS01_G310.jpg" alt=""/></div>
+  			  <div class="slides"><img src="/images/home/water_rinnai_tankless_water_ heater.jpg" alt=""/></div>
+  			</div>
+  		</div>
+		
+  	</div>
+	
+  	<div id="content">
+      <%= @content %>
+  	</div>
+	
+  </div>
+
+  <ul id="slider_nav" style="display:none">
+    <li><a href="#" class="jFlowControl">&#160;</a></li>
+    <li><a href="#" class="jFlowControl">&#160;</a></li>
+    <li><a href="#" class="jFlowControl">&#160;</a></li>
+    <li><a href="#" class="jFlowControl">&#160;</a></li>
+    <li style="display:none"><a href="#" class="jFlowNext">&gt;&gt;</a></li>
+    <!-- need next button for autoscrolling -->
+  </ul>
+  
+  <div id="footer">
+  	<p>Copyright © 2010 All Propane LPG. All Rights Reserved.</p>
+  </div>
+
+</body>
+</html>
