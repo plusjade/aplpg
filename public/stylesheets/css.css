@@ -195,6 +195,9 @@ a.link-more:hover {
   display:block;
   margin:auto;
 }
+.slides {
+  height:275px !important;
+}
 
 /* CONTENT */
 
