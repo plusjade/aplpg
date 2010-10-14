@@ -3,6 +3,7 @@ require 'rubygems'
 require 'dm-core'
 require 'dm-aggregates'
 require 'dm-serializer'
+require 'dm-migrations'
 require 'yaml'
 
 db_config = YAML.parse(File.open(File.join('config','database.yml')))
@@ -20,6 +21,7 @@ class Category
   property :id, Serial
   property :name, String, :length => 255, :required => true
   property :url_name, String, :length => 255
+  property :image, String, :length => 255
   
   has n, :subcategories
   
@@ -34,8 +36,9 @@ class Subcategory
 
   property :id, Serial
   property :category_id, Integer
-  property :tmp, Integer
   property :name, String, :length => 255, :required => true
+  property :data, Text
+  
   
   belongs_to :category
   
@@ -46,3 +49,4 @@ class Subcategory
   
 end
 
+DataMapper.auto_upgrade!
