@@ -1,0 +1,41 @@
+Blackmer Compressor Selection Data
+
+APPROXIMATE,COMPRESSOR,MOTOR,INLET,OUTLET,MODEL
+DELIVERY(GPM),SPEED(RPM),HP,FNPT,FNPT,NUMBER
+49,425,3
+65,560,5
+83,715,5,"3/4""","3/4""",LB161
+90,780,7.5
+95,825,7.5
+123,495,7.5
+134,540,10
+161,650,10,"1-1/4""","1-1/4""",LB361
+194,780,15
+205,825,15
+245,550,15
+285,640,20,"1-1/2""","1-1/2""",LB601
+327,735,20
+351,790,25
+
+STYLE,STYLE DESCRIPTION,PART NUMBER
+,Compressor with fly wheel and oil,LB161CO
+CO,pressure gauge only.,LB361CO
+,,LB601CO
+,Complete compressor unit with,LB161LU
+LU,"gauges,base,piping,strainer,4-way",LB361LU
+,"valve,liq.trap,belt guard,sliding base,",LB601LU
+,"Base mounted unit: Compressor,",LB161B
+B,"gauges base, belt guard, sliding",LB361B
+,"motor base, less motor.",LB601B
+E,Extended Crankshaft,LB161
+,,LB361
+
+Blackmer Accessories
+
+DESCRIPTION,REF. NO.,FORMODELS,PART NUMBER
+Liquid Filled Pressure Gauge,1,"161,361and601",LFC220
+Liquid Traps,2,161and361,790039
+Liquid Traps,2,601,790179
+"1-1/4"" FNPT 4-way valve assy.",3,361and601,777833
+"1-1/4"" FNPT 90 degree inlet strainer",4,"161,361and601",790019
+Compressor Bracket,5,161and361,CB

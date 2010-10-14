@@ -1,0 +1,155 @@
+"Neptune 4D Liquid Meter, 3.5-18 GPM"
+
+DESCRIPTION,PART NUMBER
+LP-Gasmeterw/631register,RL100108A12
+
+Liquid Controls Meters
+
+DESCRIPTION,CAP.GPM,SIZE,PART NUMBER
+"Meter assembly w/backcheck,"
+"strainer, vapor eliminator,",12-60,"1-1/2""",MA5GY10
+differential valve and
+Veeder Root print register.
+"Meter assembly w/backcheck,"
+"strainer, vapor eliminator,",12-60,"1-1/2""",MA5LII
+"differential valve, LCRII electronic"
+"register, ETVC and printer"
+"Meter assembly w/backcheck,"
+"strainer ,vapor eliminator,",20-100,"2""",MA7GY10
+differential valve and
+Veeder Root print register.
+"Meter assembly w/backcheck,"
+"strainer, vapor eliminator,",20-100,"2""",MA7LII
+"differential valve, LCRII electronic"
+"register, ETVC and printer"
+
+"Liqua-Tech LP-Gas Flowmeter, 3-18 GPM"
+
+DESCRIPTION,SIZE,PART NUMBER
+LP-Gasmeterw/VeederRootregister,1“,LPM102
+
+Equimeter Vapor Meters
+
+DESCRIPTION,MAX.W.P.,SIZE,PART NUMBER
+LPG VaporMeter,5PSIG,"3/4""",S275
+LPG VaporMeterw/Temp.Comp.,,,S275TC
+LPG VaporMeter,,"1""",R275
+LPG VaporMeterw/Temp.Comp.,,,R275TC
+LPG VaporMeter,5PSIG*,,R315
+LPG VaporMeterw/Temp.Comp.,,"1-1/4""",R315TC
+LPG VaporMeter,10PSIG,,415
+LPG VaporMeterw/Temp.Comp.,,,415TC
+LPG VaporMeter,20PSIG,,750
+LPG VaporMeterw/Temp.Comp.,,"1-1/2""",750TC
+LPG VaporMeter,,,1600
+LPG VaporMeterw/Temp.Comp.,,,1600TC
+LPG VaporMeter,100PSIG,"2""",3000
+LPG VaporMeterw/Temp.Comp.,,,3000TC
+
+"Neptune 1-1/4"" thru 2"" LPG Meters"
+
+DESCRIPTION,SIZE,PART NUMBER
+RL12521RGD1meterw/printingregister&ATC,"1-1/4""",RL12521RGD1
+RL15021RGD1meterw/printingregister&ATC,"1-1/2""",RL15021RGD1
+RL20021RGD2meterw/printingregister&ATC,"2""",RL20021RGD2
+
+Neptune Register
+
+DESCRIPTION,REF. NO.,PART NUMBER
+DirectReading-831-11,,880010000
+Print-O-Meter-833-0,1,880030000
+"DirectReading-631-1""",,100498016
+"DirectReading-631-3/4""",2,100498009
+DirectReading-631(toreplace106),,100693001
+
+Veeder-Root
+
+DESCRIPTION,REF. NO.,PART NUMBER
+"Veeder-RoottoNeptuneAdapterfor3/4""meter",1,RAN075
+"Veeder-RoottoNeptuneAdapterfor1""meter",1,RAN100
+"VRtoNeptuneAdapterfor1-1/4""to2""meter",1,RAN200
+Veeder-RootNon-PrintRegister,---,R1
+Veeder-RootPrintingRegister,---,PR
+Veeder-RootNon-PrintRegisterw/pulser,2,RP1
+GearPlateAssembly,3,GP1
+AddforTemperatureVolumeCompensator.,N/A,D5120
+Requiresbellowskit.,,25015
+
+Neptune A.T.C.'s
+
+DESCRIPTION,PART NUMBER
+"ATCfor1-1/4""Meter",86600201
+"ATCfor1-1/2""Meter",86600204
+"ATCfor2""Meter",86702301
+
+Neptune Measuring Chambers
+
+DESCRIPTION,PART NUMBER
+"3/4""MeasuringChamber",C42075101
+"1""MeasuringChamber",C01748001
+"1-1/4""MeasuringChamber",C43260101
+"1-1/2""MeasuringChamber",C83271101
+"2""MeasuringChamber",C45806101
+
+"1"" Type 4D - MD with 600 Series Register Parts List"
+
+PART NAME,REF. NO.,PART NUMBER
+"RegisterComplete,600Series",,100498-018
+Gallonsw/ATC
+"RegisterComplete,600Series",,100498-016
+GallonsNon/ATC
+"RegisterComplete,600Series",1,100498-015
+Litersw/ATC
+"RegisterComplete,600Series",,100498-019
+LitersNon/ATC
+"Screw,10-32x3/8filhd",2,733-001
+StarConnw/setscrew,3,82976-001
+"Adapter,600SeriesRegister",4,100729-001
+"Bolt,1/4-28x1/2hexhd,drilled",6,100062-023
+"Bolt,1/4-28x1/2hexhd,undrilled",,100061-023
+MainCaseCoverAssembly,7,400024-701
+"CapScrew,7/16-14x1-3/16drilled",8,40237-005
+"CapScrew,7/16-14x1-3/16undrilled",,40237-004
+GasketMainCase,9,4861-016
+GearTrainComplete116.87reduction,,80905-013
+(600;10liter),10
+GearTrainComplete43.5reduction,,80905-017
+(600;USgal)-LargeSpindle
+MeasuringChamberComp.w/Piston,11,101748-001
+"Pin,Seal",12,42792-000
+"Roller,Control",13,42086-000
+Diaphragm,14,42791-000
+"CapScrew,3/8-016x1hexhddrilled",15,100071-025
+"CapScrew,3/8-016x1hexhdundrilled",,100071-024
+"Cover,VaporRelease",16,400021-701
+"Gasket,O-Ring",17,100139-012
+Vapor ReleaseFloatAssembly,18,87188-001
+Bracket,19,101749-001
+"Strainer,14x88mesh",20,101738-001
+MainCaseAssembly,21,400027-701
+"Pin,MeasuringChamberLocating",---,100370-022
+"Kit,Valve",---,100028-001
+"Piston,DifferentialValve",22,100160-002
+"UCup,Valve",23,100025-008
+Spring,24,100024-001
+"O-Ring,Cover",25,100139-007
+"O-Ring,SleeveSealing",26,100139-006
+"Sleeve,Valve",27,100027-003
+"Cover,DifferentialValve",28,400020-702
+"Flange,InletorOutlet",29,87180-700
+"Screw,5/16-18x7/8hexhdsteeldrilled",30,100064-026
+"Screw,5/16-18x7/8hexhdsteelundrilled",,100063-026
+"Lockwasher,5/16steel",31,100121-010
+"TubingKit,VaporRelease",---,100017-011
+"Elbow,Male1/4-90degree (flared tube fitting)",32,87195-001
+"TubeAssembly,VaporRelease",33,87196-001
+ThermometerWell,34,1001906
+"Cover,ThermometerWell",35,83732-000
+ChangeGears(givedia.&#ofteeth),36,N/A
+"Connector,Male1/4(flaredtubefitting)",37,100135-002
+"Connector,Male3/8Flared",38,84826-000
+RegisterCUP,39,138-031
+"Screw,1/4-20HexHead",40,100059-024
+StrainerCoverAssembly,41,400025-701
+"Sleeve,Screw",42,100737-001
+"Screw,10-32x3/8filhd.",43,733-001

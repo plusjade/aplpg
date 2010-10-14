@@ -1,0 +1,431 @@
+Fisher Threaded Internal Vales
+
+,,U.L.RATED,,VAPORCAPACITY,Type Number
+TANK,OUTLET,CLOSINGFLOW,TANK,SCFH@100PSIG,StraightThrough,TeeBody,StrainerBody
+CONN.,CONN.,GPMPROPANE,COUPLING,INLET,Body(1outlet),(2outlets),(3outlets)
+"1-1/4""MNPT","1-1/4""FNPT","30, 50, or 80",Half,"13,200w/50gpm spring",C40710,---,---
+,,,,"54,500with",C42716,---,---
+"2""MNPT","2""FNPT","100, 150, or 250",Half,150gpm spring,---,C42116,---
+,,,,,---,---,C40216
+,,,,,C42724,---,---
+"3""MNPT","3""FNPT","150, 200, 250, 400,",Half,"75,400with",---,C42124,---
+,,or 500,,200gpm spring,---,---,C40224
+
+REPAIR KITS,Valves
+DESCRIPTION,KITNUMBER
+RepairKitforC40710,RC4071
+"RepairKitfor2""MNPT",RC4001
+"RepairKitfor3""MNPT",RC4002
+
+Fisher Flanged Internal Valves
+
+,,U.L.RATED,VAPORCAPACITY,,TYPE NUMBER
+TANK,OUTLET,CLOSINGFLOW,SCFH@100PSIG,MEANSOF,SingleFlange,DoubleFlange
+CONNECTION,CONNECTION,GPMPROPANE,INLET,ACTUATION,Body,Body
+"3"" 300lb.ANSI","3""300lb.ANSI","150, 200, 250,","64,100with","Manual,Cable",C40424,---
+RFModifiedFlange,RFFlange,or 400,200gpmspring,orAir,---,C40324
+,,,,CableControl,C40432,---
+"4""300lb.ANSI","4""300lb.ANSI","#340, 400, 600,","108,600with",Air,C404A32,---
+RFModifiedFlange,RFFlange,"800, or 1000",400gpmspring,Manual,C404M32,---
+
+SSK-2 Tank Valve Kit
+
+,,,PART
+REF.,QTY.,INCLUDES:,NUMBER
+A,1,"2""InternalValve",C4271625
+B,1,AA-9Actuator,AA9
+C,1,AirValve,229637
+D,2,"1/4""TubeFlareNut",10004
+
+,,,PART
+REF.,QTY.,INCLUDES:,NUMBER
+A,1,"3""InternalValve",C4272440
+B,1,AA-9Actuator,AA9
+C,1,AirValve,229637
+D,2,"1/4""TubeFlareNut",10004
+
+Fisher Cable Controls
+
+,TYPE
+DESCRIPTION,NUMBER
+CableControl,P650
+AuxiliaryRelease(25FT),P163A
+AuxiliaryRelease(50FT),P164A
+FusibleLink,P134
+
+Ransome Safety Shutdown
+
+DESCRIPTION,TYPE NUMBER
+Pneumatic Operator with Bracket,AA9
+
+Fisher Latch and Remote Releases
+
+,TYPE
+INTERNAL VALVE,NUMBER
+C40432,P313
+C400's,P340
+C40710,P341
+C40710(Dual),P342
+
+Fisher Air Cylinders
+
+,TYPE
+INTERNAL VALVE,NUMBER
+"C402, C421, or C427",P3266
+C40324,P3265
+C40424,P3267
+C40432,P312
+C40710,P389
+
+Fisher Globe and Angle Valves
+
+,,Type Number
+,INLET&OUTLET,,Heavy-Duty,,Economy Version
+SERVICE,CONNECTIONS,Globe,Version Angle,Globe,Angle
+,"1/2""FNPT",N30104,N40104,---,---
+,"3/4""FNPT",N30106,N40106,---,---
+LP-Gas,"1""FNPT",N30108,N40108,---,---
+and,"1-1/4""FNPT",N31010,N41010,---,---
+NH3,"1-1/2""FNPT",N31012,N41012,---,---
+,"2""FNPT",N31016,N41016,---,---
+,"3""FNPT",N31024,N41024,---,---
+LP-Gas,"1/2""FNPT",---,---,N35004,N45004
+,"3/4""FNPT",---,---,N35006,N45006
+
+Fisher Emergency Shutoff Valves for Bulk Plants
+
+BODY,FLOW@2PSIG,,TYPE
+SIZE,DIFFERENTIAL,ACCESSORIES,NUMBER
+"1-1/4""FNPT",75gpm,P164BCableRelease,N55010
+,,P327DPneumaticRelease
+"2""FNPT",115gpm,P327CAirCylinder,N55016
+,,P551ExternalClosingSpring
+"3""FNPT",275gpm,T11395ControlValve,N55024
+
+Fisher Emergency Shutoff Valves for Railroad Tank Cars
+
+HOSE,TYPE
+CONNECTION,NUMBER
+"3-1/4""MaleAcme",N56226
+
+Fisher Back Check Valves
+
+,CONTAINER,,,Type Number
+SEAT,or INLET,OUTLET,@10PSIG,,,DuctileIron
+CONSTRUCTION,CONNECTION,CONNECTION,DIFF.PRESSURE,Brass,Steel,Standard,FlowInd.
+,"3/4""MNPT","3/4""FNPT",21gpm,G100,---,---,---
+Metal,"1-1/4""MNPT","1-1/4""FNPT",55gpm,G101,---,---,---
+to,"2""MNPT","2""FNPT",150gpm,G102,---,---,---
+Metal,"2""MNPT","2""FNPT",150gpm,---,G112,---,---
+,"2""FNPT","2""FNPT",150gpm,G109,---,---,---
+,"3""MNPT","3""FNPT",250gpm,---,G104,---,---
+,"1-1/4""FNPT","1-1/4""FNPT",190gpm,---,---,G20010,---
+,"1-1/4""FNPT","1-1/4""FNPT",190gpm,---,---,---,G20110
+,"2""FNPT","2""FNPT",350gpm,---,---,G20016,---
+,"2""FNPT","2""FNPT",350gpm,---,---,---,G20116
+SoftSeat,"2""MNPT","2""MP&1-1/4""FP",137.5gpm,---,G105,---,---
+,"3""FNPT","3""FNPT",800gpm,---,---,G20024,---
+,"3""FNPT","3""FNPT",800gpm,---,---,---,G20124
+,"3""MNPT","2""MNPT",254gpm,---,G106,---,---
+,"3""MNPT","3""MP&2""FP",254gpm,---,G107,---,---
+
+Fisher Excess Flow Vavles
+
+,INLET,OUTLET,Liquid,,VaporSCFH,TYPE NUMBER
+APPLICATION,CONNECTION,CONNECTION,GPM,25psiginlet,100psiginlet,Brass,Steel
+,,,0.7,120,204,F110,---
+,,"9/16""-18UNFLH",1.5,335,570,F183,---
+PortableService,MalePOL,,0.7,120,204,F173,---
+"(Torches, Burners, etc.)",,"1/4""MNPT",1.5,335,570,F181,---
+,SoftNose,"9/16""-18UNFLH",,,,F110A,---
+,MalePOL,"1/4""MNPT",0.7,120,204,F173A,---
+In-Line,"1-1/4""MNPT","1/4""FNPT",1.8,377,641,F138,---
+,MalePOL,"1/2""SAEFlare",1.9,634,"1,100",F202,---
+,,,6.6,"1,184","2,012",F170,---
+,"3/4""MNPT","3/4""FNPT",8.4,"2,010","3,417",F100,---
+Tanks,,,20,"3,459","5,880",F101,---
+(Full or Half Coupling),"1-1/4""MNPT","1-1/4""FNPT",33,"6,300","10,630",F102,---
+,,,55,"9,982","16,967",F105,---
+,"2""MNPT","2""FNPT",85,"18,513","31,467",F106,---
+,,,100,"20,796","35,349",F107,---
+,"1""FNPT","1""FNPT",25,"5,287","8,986",F130,---
+In-Line,"1-1/2""FNPT","1-1/2""FNPT",60,"11,694","19,877",F131,---
+,"2""FNPT","2""FNPT",95,"19,874","33,877",F132,---
+,,,155,"29,202","49,718",F133,---
+Tanks(Full or Half,"1-1/2""MPx1""FP","1""FNPT",28,"5,181","8,806",F134,---
+Coupling),"2-1/2""Mx1-1/2""F","1-1/2""FNPT",60,"12,000","20,290",F135,---
+,,,80,"15,400","26,250",---,F190
+,"2""MNPT","2""MPx1-1/4""FP",105,"18,800","32,000",---,F191
+Tanks (Full or Half,,"2""MNPT",165,"32,800","55,950",---,F194
+Coupling),,,260,"50,650","86,350",---,F195
+,"3""MNPT",,165,"33,000","56,250",---,F198
+,,"3""MPx2""FP",260,"49,500","84,350",---,F199
+
+Fisher Bypass Valves for Large Pumps
+
+,BODY,PSID,PSID,TYPE
+PUMPSIZE,SIZE,SETTING,RANGE,NUMBER
+"2""","1""FNPT",50psig,25-75psig,N100A081
+,,115psig,50-150psig,N100A082
+,"1-1/4""FNPT",50psig,25-75psig,N100A101
+"2""-3""",,115psig,50-150psig,N100A102
+,"1-1/2""FNPT",115psig,50-150psig,N100A122
+"4""","2""FNPT",50psig,25-75psig,N100161
+,,115psig,50-150psig,N100162
+
+Fisher Bypass Valves for Large Pumps
+
+PUMPING,BODY,PSID,PSID,TYPE
+CAPACITY,SIZE,SETTING,RANGE,NUMBER
+5-20gpm,"3/4""FNPT",50psig,25-75psig,N110061
+20-40gpm,,"(3,45bar)","(1,72-5,17bar)",N110062
+5-20gpm,"1""FNPT",100psig,75-150psig,N110081
+20-40gpm,,"(6,90bar)","(5,17-10,34bar)",N110082
+
+Fisher Back Pressure Valves
+
+LIQUID,BODY,PSID,PSID,TYPE
+METERSIZE,SIZE,SETTING,RANGE,NUMBER
+"3/4""or1""","3/4""FNPT",12psig,10-20psig,N120063
+,"1""FNPT","(0,83bar)","(0,69-1,38bar)",N120083
+
+Fisher Rotary Gauges
+
+,,TYPENUMBER
+CONTAINER,,LPG Dial>1200,NH3 Dial>1200
+CONNECTION,LENGTH,Gallon,Gallon
+,"68"" (1,727)",J31L1,---
+,"69-92""(1753-2337)",J31L2,---
+"1""MNPT","93-108""(2362-2743)",J31L3,---
+,"109-140""(2769-3556)",J31L3L,---
+,DialOnly,P323,---
+,,---,P324
+
+Fisher Liquid Level Vent Valves
+
+,TYPE
+DESCRIPTION,NUMBER
+"3/4"" MNPT container connection",J415
+"w/two 1/4"" FNPT sideoutlets."
+Same as J415 except with J402S
+liquid level vent valve and J542,J4151
+(0-400 psig) pressure gauge
+installed. For NH3service.
+
+Fisher Relief Valve Manifold
+
+*BrassTrim,#SteelTrim
+,,,,"FlowCapacity,SCFM"
+,RELIEF,START-TO-,,"air,4-portManifold"
+TANK,VALVE,DISCHARGE,,w/3portsopen,TYPE
+CONNECTION,TYPE,SETTING,SERVICE,UL,NUMBER
+"4""300lb.ANSI",H282,"250psig(17,24bar)",LP-Gas*,"27,018",H540250
+RFFlange,H5112,"265psig(18,27bar)",NH3#,"28,832",H541265
+"3""300lb.RF",H282,"250psig (17,24bar)",LP-Gas*,"27,018",H530250
+ModifiedFlange,H5112,"265psig(18,27bar)",NH3#,"28,832",H531265
+
+Fisher Large Relief Valves
+
+,,,,,,FORTANKWITH
+,,,START-TO-,               Flow Capacity SCFM Air,,AREAUPTO:
+CONTAINER,,TYPE,DISCHARGE,,,(basedonUL,TYPE
+CONNECTION,SERVICE,MATERIAL,SETTING,UL,ASME,flowcapacities),NUMBER
+,LP-Gas,Brass,250psig,"11,057","9,651",664sq.ft.,H282250
+,,,275psig,"12,221","10,571",750sq.ft.,H282275
+"2""MNPT",NH3or,Stainless,250psig,"11,057","9,651",664sq.ft.,H5112250
+,LP-Gas,Steel,265psig,"11,814","10,203",719sq.ft.,H5112265
+,,,275psig,"12,221","10,571",750sq.ft.,H5112275
+
+Fisher Rain Cap & Relief Stack
+
+,TYPE
+DESCRIPTION,NUMBER
+RainCap,RC350
+"ReliefStack(3""x3')",RS30
+"ReliefStack(3""x7')",RS70
+Steelpipeawaycoupling,P104A
+
+Fisher Flush Mounted Relief Valves
+
+,,,,FORTANKWITH
+,START-TO-,                Flow Capacity SCFM Air,,AREAUPTO:,PROTECTIVE
+CONTAINER,DISCHARGE,,,(basedonUL,CAP,TYPE
+CONNECTION,SETTING,UL,ASME,flowcapacities),(Included),NUMBER
+,250psig,"3,635","3,023",171sq.ft.,,H722250
+"2""MNPT*",265psig,"3,556","3,386",166sq.ft.,P297,H722265
+,275psig,"3,714","3,508",175sq.ft.,,H722275
+,250psig,"10,508","9,199",624sq.ft.,,H732250
+"3""MNPT#",265psig,"11,220","9,726",676sq.ft.,P298,H732265
+,275psig,"11,736","10,076",714sq.ft.,,H732275
+
+Fisher Relief Valve for Liquid Service
+
+BODY,RELIEF,RELIEF,Propane Relief Capacity (GPM) at  Following Pressure Buildup over Relief Setting,,,,,TYPE
+SIZE,RANGE,SETTING,5psig,10psig,20psig,30psig,50psig,NUMBER
+"1/2""FNPT",25-75psig,50psig,5.2,8.0,12.6,16.8,23.1,98H17
+"1/2""FNPT",70-140psig,100psig,4.4,7.3,13.6,19.2,27.3,98H18
+"3/4""FNPT",70-140psig,100psig,30.8,49.0,67.9,79.8,93.1,98H22
+"1""FNPT",70-140psig,100psig,30.8,49.0,67.9,79.8,93.1,98H30
+
+Fisher External Relief Valves
+
+,START-TO-,,Flow Capacity,Accessories (OrderSeparately)
+CONTAINER,DISCHARGE,CONTAINER,SCFM Air,,,TYPE
+TYPE,SETTING,CONNECTION,UL,Pipeaway Adaptor,Protective Cap,NUMBER
+,,"1/4""MNPT",310,---,,H110250
+,,"1/2""MNPT",594,P174,P206,H135250
+,250psig,"3/4""MNPT",605,"(1/2""FNPT)",,H160250
+,,,"2,223",---,P145,H185250
+ASME,275psig,"3/4""MNPT","2,456",---,P143,H185275
+,,"1/4""MNPT",390,---,,H110312
+,312psig,"1/2""MNPT",765,P174,P206,H135312
+,,"3/4""MNPT",765,"(1/2""FNPT)",,H160312
+DOT and,,"1/2""MNPT",,P174,,H148
+Hydrostatic,375psig,"3/4""MNPT",903*,"(1/2""FNPT)",P206,H173
+Relief,,"1/4""MNPT",,,,H123
+,120psig,"1/4""MNPT",,,,H120120
+Hydrostatic,,"1/4""MNPT",---,---,P206,H124
+Relief,450psig,"1/2""MNPT",,,,H144
+,,"3/4""MNPT",,,,H174
+
+Fisher Diaphragm Type Relief Valves
+
+,,,Propane Relief Capacity at Following
+BODY,RELIEF,RELIEF,Press. Buildup over Relief Setting,,TYPE
+SIZE,SETTING,RANGE,1psig,15psig,NUMBER
+1/4“FNPT,30psig,10-70psig,---,---,1301F1
+1“FNPT,15psig,.5-30psig,---,"2,840SCFH",180518P
+1“FNPT,30psig,10-60psig,---,"2,840SCFH",180519P
+2“FNPT,10psig,5-20psig,---,"18,800SCFH",180551P
+2“FNPT,30psig,10-50psig,---,"11,300SCFH",180552P
+2“FNPT,1.5psig,.5-2.25psig,"11,000SCFH",---,289H2
+
+Liquid Transfer Valve
+
+DESCRIPTION,TYPE NUMBER
+"3/4""MNPTinletby1-3/4""M.Acme",N456
+
+Cylinder Filling Valve
+
+INLET CONNECTION,OUTLET CONNECTION,TYPE OF SCALE,CAPACITY LBS./MIN,TYPE NUMBER
+"1/2"" FNPT","1/2"" FNPT (2)",Beam,112,N201
+
+Vent Valves and Level Gauges
+
+OUTLET LOCATION,LIQUID LEVEL VENT VALVES,,TYPE NUMBER
+Top,Plain,Brass,J400
+,Plain,S.Steel,J402S
+
+OUTLET LOCATION,FIXED LIQUIDL EVEL GAUGE,,TYPE NUMBER
+Top,Plain,Brass,MEJ410120
+
+LIQ. LEV. VENT VALVE ACCES.,PART NUMBER
+DiscSeal,1E7714
+StemandDisc,1F4595
+
+Marshall Female Acme Filler Couplings
+
+
+FEMALE,OTHER,,REF.,TYPE NUMBER
+ACME,CONNECTION,LENGTH,NO.,BRASS,STEEL
+"1-1/4""","3/8""MNPT","3""",,ME100,---
+,"1/2""MNPT","2-1/2""",,ME101,---
+,,,1,ME110,---
+,,"3""",,ME111,---
+,"3/4""MNPT",,,---,ME6316
+"1-3/4""",,"6-1/8""",2,---,ME6356
+,,"3""",1,ME112,---
+,"1""MNPT",,,---,ME6318
+,,"7""",2,---,ME6358
+,"1-1/4""MNPT","3-1/4""",3,ME120,---
+"2-1/4""",,,,---,ME121
+,"1-3/4""Acme",---,5,ME611,---
+,"1-1/4""FNPT","1-1/2""",4,ME442,---
+,"1-3/4""MAcme",---,5,ME612,---
+"3-1/4""",,,,---,ME622
+,2“MNPT,"3-3/4""",3,ME130,---
+,,,,---,ME133
+,"3""MNPT","4-1/2""",3,M66424,---
+"4-1/4""",,,,---,M63424
+,"3-1/4""MAcme",---,5,M613,---
+,,,,---,M623
+
+Marshall Male Acme x Female NPT Adaptors
+
+MALE,FEMALE,Washer,TYPE NUMBER
+ACME,NPT,Drawing,BRASS,STEEL
+"1-1/4""","1/2""",IE8122,ME192,---
+,"3/4""",,ME193,---
+,"1/4""",,ME210,---
+,"3/8""",,ME211,---
+,"1/2""",,ME212,---
+"1-3/4""","3/4""",IE8124,ME213,---
+,,,---,ME5266
+,"1""",,ME214,---
+,,,---,ME5268
+"2-1/4""","1-1/2""",IE8126,ME5021612,---
+,"1-1/4""",,ME250,---
+,"2""",,ME252,---
+"3-1/4""",,IE8128,---,ME52816
+,"3""",,ME50824,---
+,,,---,ME52824
+"4-1/4""","3""",T10948,M50924,---
+,,,---,M52924
+
+Marshall Male Acme x Male NPT Adaptors
+
+MALE,MALE,Washer,TYPE NUMBER
+ACME,NPT,Drawing,BRASS,STEEL
+,"1/2""",,ME49842,---
+"1-1/4""","3/4""",IE8122,ME49863,---
+,"1""",,---,M5208
+,"1/2""",,---,M5214
+,"3/4""",,ME215,---
+,,,---,ME5216
+"1-3/4""","1""",IE8124,ME216,---
+,,,---,ME5218
+,"1-1/4""",,ME217,---
+,,,---,ME52110
+,"1-1/4""",,ME233,---
+,,,---,ME236
+"2-1/4""","1-1/2""",IE8126,ME502128,---
+,"2""",,ME5021610,---
+,,,---,ME5221610
+,"2""",,ME50316,---
+"3-1/4""",,IE8128,---,ME263
+,"3""",,ME262,---
+,,,---,ME52324
+"4-1/4""","3""",T10948,M50424,---
+,,,---,M52424
+
+Marshall Female Acme Vapor Return Coupling
+
+FEMALE,OTHER,,REF.,TYPE NUMBER
+ACME,CONNECTION,LENGTH,NO.,BRASS,STEEL
+,"3/8""MNPT","2-1/2""",5,ME140,---
+"1-1/4""",,"6-1/4""""",6,M394,---
+,"1/2""MNPT","2-1/2""",,ME141,---
+,,,5,---,ME6404
+,,"3-3/8""",,ME150,---
+,"3/4""MNPT","7""",6,---,ME6466
+"1-3/4""",,"3-1/4""",5,ME151,---
+,"1""MNPT",,,---,ME6418
+,,"7-3/8""",6,---,ME6468
+"2-1/4""","1-1/4""MNPT","3-3/8""",7,ME160,---
+
+Marshall Male Acme Adaptors
+
+MALE,Washer,TYPE NUMBER
+ACME,Drawing,BRASS,STEEL
+"1-1/4""x1-1/4""",IE8122,ME270,---
+"1-3/4""x1-3/4""",IE8124,ME273,---
+,,---,M53614
+"2-1/4""x2-1/4""",IE8126,ME275,---
+"3-1/4""x3-1/4""",IE8128,ME277,---
+"2-1/4""x2-1/4""",IE8126,---,M53618
+"3-1/4""x3-1/4""",IE8128,---,M53626
+
+Marshall Spanner Wrench
+
+OVERALL LENGTH,CONSTRUCT. METAL,TYPE NUMBER
+"18""",Aluminum,MEP120B

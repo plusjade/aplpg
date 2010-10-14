@@ -1,0 +1,97 @@
+Female NPT x Swivel Female NPSM
+
+NPTFTHD.,NPSMTHD.,PART NUMBER
+"1/4""","1/4""",4F4UFS
+"3/8""","3/8""",6F6UFS
+"1/2""","1/2""",8F8UFS
+"3/4""","3/4""",12F12UFS
+"1""","1""",16F16UFS
+"1-1/4""","1-1/4""",20F20UFS
+"1-1/2""","1-1/2""",24F24UFS
+"2""","2""",32F32UFS
+
+Male NPT x Swivel Female NPSM
+
+NPTFTHD.,NPSMTHD.,PART NUMBER
+"1/4""","1/4""",4M4UFS
+"3/8""","3/8""",6M6UFS
+"1/2""","1/2""",8M8UFS
+"3/4""","3/4""",12M12UFS
+"1""","1""",16M16UFS
+"1-1/4""","1-1/4""",20M20UFS
+"1-1/2""","1-1/2""",24M24UFS
+"2""","2""",32M32UFS
+
+90 Degree Male NPT x Swivel Female NPSM
+
+NPTFTHD.,NPSMTHD.,PART NUMBER
+"1/4""","1/4""",4MA4UFS
+"3/8""","3/8""",6MA6UFS
+"1/2""","1/2""",8MA8UFS
+"3/4""","3/4""",12MA12UFS
+"1""","1""",16MA16UFS
+"1-1/4""","1-1/4""",20MA20UFS
+"1-1/2""","1-1/2""",24MA24UFS
+"2""","2""",32MA32UFS
+
+45 Degree Male NPT x Swivel Female NPSM
+
+NPTFTHD.,NPSMTHD.,PART NUMBER
+"1/4""","1/4""",4MAX4UFS
+"3/8""","3/8""",6MAX6UFS
+"1/2""","1/2""",8MAX8UFS
+"3/4""","3/4""",12MAX12UFS
+
+UL Approved Rubber Pigtails
+
+CYL. VALVE CONN.,INLET CONN.,LENGTH,TYPE NUMBER
+Male,"1/4""","20""",4040120
+POL,Inverted,"24""",4040124
+,Flare,"36""",4040136
+
+Ferrules
+
+CRIMP WITH,FOR HOSE TYPE,O.D.,PART NUMBER
+,---,".525""",525AF
+MODEL,---,".550""",550AF
+“500”,---,".575""",575AF
+CRIMPER,540,".600""",600AF
+OR,540,".625""",625AF
+MODEL,540,".650""",650AF
+“FV”,542,".675""",675AF
+FERRULE,542,".700""",700AF
+VISE,542,".725""",725AF
+,542,".750""",750AF
+
+Brass Hose Inserts
+
+THREADED CONN.,HOSE I.D.,REF.NO.,PART NUMBER
+"9/16""L.H.Fe.","1/4""",,1500
+"9/16""L.H.Fe.","3/8""",1,1500A
+"5/8""R.H.Fe.","1/4""",,1501
+"1/4""Fe.PIPE","1/4""",,1512
+"1/4""Fe.PIPE","3/8""",2,1562
+"3/8""Fe.PIPE","3/8""",,1563
+"1/4""M.PIPE","1/4""",,1502
+"3/8""M.PIPE","1/4""",,1503
+"1/4""M.PIPE","3/8""",3,1552
+"3/8""M.PIPE","3/8""",,1553
+"3/8""M.FL.","1/4""",4,1523
+"3/8""M.FL.","3/8""",,1573
+"1/4""Fe.FL.","1/4""",,1532
+"3/8""Fe.FL.","1/4""",5,1533
+"3/8""Fe.FL.","3/8""",,1583
+"1/4""INV.FL.","1/4""",6,1505
+M.POL,"1/4""",7,1540
+M.POL,"3/8""",,1541
+"1""Fe.20Swivel","1/4""",8,ME484
+"1""M.20Swivel","1/4""",9,ME496
+SoftNosePOL,"1/4""",10,ME1656
+
+Installation Tools
+
+FOR HOSE TYPE,REF. NO.,PART NUMBER
+*Ferrule Dies (Specify Size),1,FD
+Ferrule Vise,2,FV
+Hose Crimper,3,500C
+Hose Assemblies,4,845

@@ -1,0 +1,138 @@
+Marshall Excelsior POL Adaptors
+
+WINGNUT,EXCESSFLOW,OUTLET CONNECTION,TYPE NUMBER
+NO,NO,"1/4""MNPT",ME318A
+YES,,,M318AW
+NO,YES,"9/16""-18""UNFLH",F110A
+NO,YES,"1/4""MNPT",F173A
+YES,,,F173AW
+
+Marshall Excelsior Quick Closing Couplings
+
+DESCRIPTION,APPLICATION,PART NUMBER
+O-Ring,ME220M,T11673
+Gasket,ME220M,T12836
+
+INLET,OUTLET,REF.,TYPE NUMBER
+CONNECTION,CONNECTION,NO.,BRASS
+"3/8""FNPT","1-1/4""M.Acme",9,ME220M
+"1-1/4""F.Acme","1/4""FNPT",10,ME220F
+
+Marshall Excelsior Swivel POL Adaptors
+
+DESCRIPTION,APPLICATION,PART NUMBER
+O-Ring,ME388,MT12945
+
+POL,OTHER,,REF.,TYPE NUMBER
+CONNECTION,CONNECTION,LENGTH,NO.,BRASS
+,"1/4""MNPT","2-3/8""",1,ME318
+Straight,,,,ME319*
+MalePOL,,"2-9/16""",2,ME388#
+,,"3-1/2""",1,ME322
+,"9/16""-18UNFLH","2-3/8""",,ME320
+Angle,"1/4""MNPT","3""",3,ME345
+MalePOL,,,,ME348
+
+Marshall Excelsior Filler Coupling
+
+INLET,OUTLET,TYPENUMBER
+CONNECTION,CONNECTION,BRASS
+"1-1/4""F.Acme","1/4""MP",ME790
+
+Marshall Excelsior Single Piece POL Adaptors
+
+POL,OTHER,REF.,TYPE NUMBER
+CONNECTION,CONNECTION,NO.,BRASS
+,"1/4""FNPT",,ME301
+,"3/8""FNPT",,ME302
+,"1/2""FNPT",,ME303
+,"3/4""FNPT",4,ME304
+,FemalePOL,,ME305
+FemalePOL,"1/4""xCGA1550",,ME306
+,FPOLxCGA1550,5,ME308
+,"1/4""MNPT",,ME284
+,"3/8""MNPT",,ME285
+,"1/2""MNPT",6,ME286
+,"3/4""MNPT",,ME287
+,"1/4""FNPT",,ME351
+,"3/8""MNPT",7,ME352
+MalePOL,"1/2""MNPT",,ME357
+,"3/8""SAEFlare",8,ME353
+,"1/2""SAEFlare",,ME355
+
+Marshall Excelsior Filler Hose Adaptor
+
+DESCRIPTION,APPLICATION,PART NUMBER
+Gasket,ME570,T13098
+Washer,ME570,T13103
+
+FILLERVALVE,HOSEEND,BODY,TYPE NUMBER
+CONNECTION,VALVECONNECTION,MATERIAL,BRASS
+"1-3/4""F.Acme","1-3/4""M.Acme",Brass,ME570
+
+Marshall Excelsior Full Port Globe and Angle Valves
+
+DESCRIPTION,INLET,OUTLET,TYPE NUMBER
+Full Port Angle Valve,"1-1/4"" FNPT","1-1/4"" FNPT",ME815-10
+Full Port Globe Valve,"1-1/4"" FNPT","1-1/4"" FNPT",ME825-10
+Full Port Angle Valve,"2"" FNPT","2"" FNPT",ME815-16
+Full Port Globe Valve,"2"" FNPT","2"" FNPT",ME825-16
+Full Port Globe Valve,"2"" FNPT","3-1/4"" M. Acme",ME828-16
+
+Marshall Excelsior Female Acme Caps
+
+SIZE,TYPE NUMBER
+F.ACME,Plastic,Brass,Steel
+"1-1/4""",ME108,---,---
+"1-3/4""",ME109,---,---
+,---,---,ME219
+"2-1/4""",---,ME431,---
+,---,---,M432
+"3-1/4""",---,ME441,---
+,---,---,ME443
+"4-1/4""",---,M60534,---
+,---,---,M62534
+
+Marshall Excelsior Ring and Chain Assemblies
+
+FOR CAP OR DUST SEAL,FOR FISHER TYPE,,TYPE
+SIZE,Cap,Dust Seal,NUMBER
+1-1/4“Acme,"M108,ME109&ME219",M178,MEP147
+"2-1/4""Acme",---,M180,MEP148
+"2-1/4""Acme",M431orM432,---,MEP167
+"3-1/4""Acme",---,M181,MEP183
+"3-1/4""Acme",M441orM443,---,MEP167
+"4-1/4""Acme","M605-34,M625-34&M535-34",---,MEP167
+
+Marshall Excelsior Dust Seals and Plugs
+
+SIZE,TYPE NUMBER
+M.ACME,Dust Seal (Plastic),Plug (Metal)
+"1-1/4""",ME178,---
+"1-3/4""",ME179,---
+,---,M239
+"2-1/4""",ME180,---
+"3-1/4""",ME181,---
+"4-1/4""",---,M53534
+
+Marshall Excelsior Type 1 Appliance Connectors
+
+DESCRIPTION,FLOW CAPACITY,HANDWHEEL COLOR,TYPE NUMBER
+"1-5/16"" f. Acme x 1/4"" MNPT",50 SCFH (air),Black,ME517
+"1-5/16"" f. Acme x 1/4"" MNPT",100 SCFH (air),Green,ME518
+"1-5/16"" f. Acme x 1/4"" MNPT",200 SCFH (air),Red,ME519
+
+Marshall Excelsior POL Plugs and Caps
+
+DESCRIPTION,TYPE NUMBER
+"Male POL cyl. Valve plug, plastic,",83P
+Includes ring and chain.
+"Male POL cyl. Valve plug, brass",ME412
+add-1 suffix (ring & chain)
+"Female POL cap,brass",ME420
+
+Fisher Adjustable Orifice Reamer
+
+DESCRIPTION,TYPE NUMBER
+LP-Gas appliance adjustable,P520L
+orifice reamer

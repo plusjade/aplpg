@@ -1,0 +1,235 @@
+"Blackmer 1"" Pumps"
+
+,CAPACITY,PUMP SPEED,DELIVER IN GPM,,PART
+DESCRIPTION,RANGE (GPM),SPEED (RPM),50PSI DIFF,100PSI DIFF,NUMBER
+"1""FlangeMounted",2to10,1750,8,6,LGF1
+"1""BracketMounted",,,,,LGB1
+"1""FlangeMounted",5to15,1750,13,10,LGF1P
+"1""BracketMounted",,,,,LGB1P
+
+"Blackmer 1"" Pump Assemblies with Base Mounting"
+
+,STD. MOTOR,PUMP SPEED,DELIVER IN GPM,,PART
+DESCRIPTION,SIZE (HP),(RPM),50PSI DIFF,100PSI DIFF,NUMBER
+"1""BracketMounted",1,1750,8,6,1LGB1D1
+,1.5,,13,10,1LGB1PD1.5
+
+"Blackmer 1"" Pump Assemblies with C-Face Mounting"
+
+,MOTOR,MOTOR,DELIVER IN GPM,,PART
+DESCRIPTION,SIZE (HP),SPEED,50PSI DIFF,100PSI DIFF,NUMBER
+"1"" Flange Mounted",1,1750,8,6,1LGF11
+,,,13,10,1LGF1P1
+,1.5,,,,1LGF1P1.5
+
+"Blackmer 1-1/4"" & 1-1/2"" Pumps"
+
+,CAPACITY,PUMP,DELIVERY IN GPM,,PART
+DESCRIPTION,RANGE (GPM),SPEED (RPM),50PSI DIFF,100PSI DIFF,NUMBER
+"1-1/4""FootMounted",15to25,1750,21,18,LGL125
+"1-1/2""FootMounted",25to35,,33,29,LGL150
+
+"Blackmer 1-1/4"" & 1-1/2"" Pump Assemblies with Base Mounting"
+
+,MOTOR,PUMP,DELIVERY IN GPM,,PART
+DESCRIPTION,SIZE (HP),SPEED (RPM),50PSI DIFF,100PSI DIFF,NUMBER
+"1-1/4""FootMounted",2,1750,21,18,3LGL125D2
+"1-1/2""FootMounted",3,,33,29,3LGL150D3
+
+Lovejoy Coupling
+
+DESCRIPTION,PART NUMBER
+"Coupling Half 5/8""",6X072
+"Coupling Half 11/16""",906139
+Spider,1X407
+
+Ransome Pump Skid for Vaporizer Applications
+
+DESCRIPTION,PUMP,MOTOR,BYPASS,PART NUMBER
+Pressure Switch Pree Wired - Skid,"1""",1 HP,"3/4""",PS10
+Pressure Switch Pree Wired - Skid,"2""",5 HP,"1-1/2""",PS20
+
+"Blackmer 1-1/2"" High Pressure LPG Pump"
+
+,CAPACITY
+DESCRIPTION,RANGE (GPM),INLET,DISCHARGE,PART NUMBER
+"1-1/2"" Foot Mounted",17-32,"2"", 300#","1-1/2"", 300#",LGL158A
+,,Flanged,Flanged
+
+"Blackmer 2"" & 3"" Pumps - Double Ended Shaft"
+
+,CAPACITY,PUMP,DELIVERY IN GPM,,PART
+DESCRIPTION,RANGE (GPM),SPEED (RPM),50PSI DIFF,100PSI DIFF,NUMBER
+"2""FootMounted",23to67,660,67,57,LGLD2
+"3""FootMounted",42to133,640,133,112,LGLD3
+
+"Blackmer 2"" & 3"" Pump Assemblies with Base Mounting"
+
+,Recommended,PUMP,DELIVERY IN GPM,,PART
+DESCRIPTION,Motor Size,SPEED (RPM),50PSI DIFF,100PSI DIFF,NUMBER
+"2""Base",7.5HP,660,67,57,3LGLD2VB7.5
+Mounted,,520,50,41
+with,5 HP,420,40,30,3LGLD2VB5
+V-BeltDrive,,330,30,23
+"3""Base",15HP,640,133,112,3LGLD3VB15
+Mounted,,520,108,84
+with,10HP,420,80,60,3LGLD3VB10
+V-BeltDrive,,330,59,42
+
+"Blackmer 4"" Pump Assemblies with Base Mounting"
+
+,Recommended,PUMP,DELIVERY IN GPM,,PART
+DESCRIPTION,Motor Size,SPEED (RPM),50PSI DIFF,100PSI DIFF,NUMBER
+"4""Base",20 H P,640,270,220,3LGLD4VB20
+Mounted,,520,220,180
+with,15 H P,420,170,130,3LGLD4VB15
+V-BeltDrive,,330,130,90
+
+"Blackmer 3"" Truck Pump"
+
+,CAPACITY,PUMP,DELIVERYINGPM,,,,PART
+DESCRIPTION,RANGE (GPM),SPEED (RPM),50PSI DIFF,H.P. REQD.,100PSI DIFF,H.P. REQD.,NUMBER
+,,650,93,5.0,81,7.9
+"3""Flange",,600,85,4.5,73,7.0
+Mounted,40to93,500,70,3.6,59,5.7,TLGLF3
+,,400,52,2.8,40,4.5
+
+"Blackmer 4"" Truck Pump"
+
+,CAPACITY,PUMP,DELIVERYINGPM,,,,PART
+DESCRIPTION,RANGE (GPM),SPEED (RPM),50PSI DIFF,H.P. REQD.,100PSI DIFF,H.P. REQD.,NUMBER
+,,650,280,15.5,245,25.0
+"4""Flange",,600,260,14.3,220,23.0
+Mounted,120 to 280,500,210,11.9,170,19.0,TLGLF4A
+,,400,160,9.5,120,15.2
+
+"Blackmer 4"" Pump - Double Ended Shaft"
+
+,CAPACITY,PUMP,DELIVERY IN GPM,,PART
+DESCRIPTION,RANGE (GPM),SPEED (RPM),50PSI DIFF,100PSI DIFF,NUMBER
+,,640,270,220
+"4""FootMounted",90 to 270,520,220,180,LGLD4
+,,420,170,130
+,,330,130,90
+
+Blackmer Pump Parts List
+"Models: LGF1C, LGB1C, LGF1PC, and LGB1PC"
+
+,,PARTS PER,PART
+REF. NO.,PARTNAME,PUMP,NUMBER
+2,AdjustingScrew-R/V,1,432901
+3,Locknut-AdjustingScrew,1,922811
+4,Cover-R/V,1,412901
+4A,O-Ring-SpringGuide,1,711940
+7,SpringGuide-R/V,1,422901
+8,Spring-R/V,1,472901
+9,Valve-R/V,1,452901
+9A,Disc-R/V,1,442901
+10,O-Ring-R/VCover,1,701965
+12,"Cylinder-LGF1,LGB1",1,22902
+12,"Cylinder-LGF1P,LGB1P",1,22911
+13,Rotor&ShaftAss. (includes #24A),1,262901
+14,Vane-Duravane(Std.),4,92912
+14,Vane-Laminate,4,92909
+20,Head,1,32902
+21,Capscrews-Head,4,920178
+24,BallBearing,2,903405
+24A,Locknut-Bearing,2,903531
+24B,Lockwasher-Bearing,2,903532
+26,Gasket-BearingCover,1,382901
+27,BearingCover,1,42901
+28,Capscrews- Bearing Cover,4,920203
+28A,MountingScrews,4,920230
+34,CouplingHalf-Pump,1,906139
+34,"CouplingHalf- Motor(143T,145T,184)",1,906143
+34,"CouplingHalf- Motor(56,56C)",1,906141
+34,CouplingSpider,1,906154
+35,Key-Shaft,1,909126
+72,O-Ring-Head,1,711941
+73,GagePlug,2,908195
+76,GreaseFitting,2,317815
+76A,GreaseReliefFitting,2,701992
+104,GreaseSeal,1,331934
+108,Bracket-LGB1&1P,1,832901
+108A,Bracket-LGF1&1P,1,832905
+108B,Capscrews-Bracket,4,920331
+
+Blackmer Pump Parts List
+Model: TLGLF3C
+
+,,PARTS PER,PART
+REF. NO.,PARTNAME,PUMP,NUMBER
+4,Cover-ReliefValve(R/V),1,415108
+5,Capscrew-R/VCover,6,920331
+8,Spring-R/V,1,471428
+9,Valve-R/V(Std.),1,451417
+9,Valve-R/V(NickelPlated),1,451415
+10,O-Ring-R/VCover,1,701919
+12,Casing,1,15128
+13,Rotor&ShaftAss. (includes #24A),1,265147
+14,Vane-Duravane,6,95132
+20,Head,2,35132
+21,Capscrews-Head,36,920351
+24,BallBearing,2,903156
+24A,Locknut-Bearing,2,903521
+24B,Lockwasher-Bearing,2,903522
+26,Gasket-BearingCover,2,383940
+27,BearingCover,2,41431
+28,Capscrews-BearingCover,8,920285
+35,Key-Shaft,1,909130
+41,Liner,1,185101
+42,"Flange-2""NPT",1-2,652010
+42,"Flange-2""Weld",1-2,652011
+42,"FlangedElbow-2""NPT",1-2,655100
+42,"FlangedElbow-2""Weld",1-2,655109
+42A,O-Ring-Flange,2,701919
+42B,Capscrew-Flange,8,920491
+71,Disk,2,65121
+72,O-Ring-Head,2,711923
+73,GagePlug,2,908195
+74,Key-Liner,1,185193
+76,GreaseFitting,2,317815
+76A,GreaseReliefFitting,2,701992
+77,PushRod,3,121607
+104,GreaseSeal,2,331918
+123,DirtShield,2,701480
+186,ShaftProtector,1,341601
+
+Blackmer Pump Maintenance Kits
+
+FOR PUMP MODEL,PART NUMBER
+"LGFIC,LGBIC,LGFIPC,LGBIPC",898916
+"LGRL1-1/4,LGRLF1-1/4",898917
+"LG1-1/4,LG1-1/2, LGL1-1/4,LGLF1-1/4,LGL125",898918
+"LGL1-1/2,LGL150",898919
+"LGL2E,TLGLD2E,LGLD2",898920
+"LGL3E,TLGLD3E,LGLD3",898921
+"TLGLF4A, LG4C,TLGFD4,LGL4,LGLD4",898922
+TLGLF3C,898923
+
+Blackmer Rebuild Kits
+
+FOR PUMP MODEL,PART NUMBER
+"LGRLF1.25AwithRotorandShaft,Liner (LPG)",899017
+"LGLF1.25AwithRotorandShaft,Liner (LPG)",899018
+"LGLF1.5AwithRotorandShaft,Liner (LPG)",899019
+"LGLD2EwithRotorandShaft,Liner (LPG)",899020
+"LGLD3EwithRotorandShaft,Liner (LPG)",899021
+"LGLD4withRotorandShaft,Liner (LPG and NH3)",899022
+"TLGLF3CwithRotorandShaft,Liner (LPG)",899023
+"LGRLF1.25AwithRotorandShaft,Liner-8Vane (LPG)",899076
+"LGLF1.25withRotorandShaft,Liner-8Vane (LPG)",899077
+"LGL1.5withRotorandShaft,Liner-8Vane (LPG)",899078
+"LGLD2E  TLGLD2EwithRotorandShaft,Liner (NH3)",899079
+"TLGLF3CwithRotorandShaft,Liner (NH3)",899080
+"LGLD3E  TLGLD3EwithRotorandShaft,Liner (NH3)",899081
+
+Blackmer Bypass Valves
+
+STANDARD PRESSURE,MODEL DIFFERENTIAL,MAXIMUM,PART
+SETTING,PRESSURE SETTING(PSI),FLOW(GPM),NUMBER
+95PSI,"20,50,80,120","25,40,50,60",BV34
+,,,BV1
+115PSI,"20,50,80,120","60,80,100,125",BV114
+,,,BV112
+95PSI,"20,50,80,120","150,180,220,250",BV2

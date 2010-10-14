@@ -1,0 +1,58 @@
+"Jomar Ball Valves, UL Approved - Full Port"
+
+SIZE,PART NUMBER
+1/4“,T100701
+3/8“,T100702
+"1/2""",T100703
+"3/4""",T100704
+"1""",T100705
+"1-1/4""",T100706
+"1-1/2""",T100707
+"2""",T100708
+3“,T100710
+
+"Apollo Ball Valves, UL Approved"
+
+SIZE,PART NUMBER
+"1/4""FNPT",80
+"3/8""FNPT",80A
+"1/2""FNPT",80B
+"3/4""FNPT",80C
+"1""FNPT",80D
+"1-1/4""FNPT",80E
+"1-1/2""FNPT",80F
+"2""FNPT",80G
+"3""FNPT",80I
+
+"Inline, Stainless Steel"
+
+SIZE,PART NUMBER
+"1-1/4""",202FE
+"2""",202FG
+"3""",201FI
+
+Steel Needle Valves
+
+DESCRIPTION,INLET,OUTLET,PART NUMBER
+Straight,"1/4""FNPT","1/4""FNPT",N1512
+,"1/2""FNPT","1/2""FNPT",N1514
+90 Degree,"1/4""FNPT","1/4""MNPT",N1572
+
+Bleeder Valves
+
+SIZE,MATERIAL,PART NUMBER
+"1/4""MNPT",StainlessSteel,A1911
+
+"1/4"" Brass Valves"
+
+DESCRIPTION,REF. NO.,PART NUMBER
+"1/4""FNPTx1/4""FNPTBackCheckValve",1,4F4FBCK
+"1/4""FNPTx1/4""MNPTBallValve",2,4F4MBT
+"1/4""FNPTx1/4""FNPTBallValve",3,4F4FBT
+
+NH3 Hydrostatic Relief Valve
+
+DESCRIPTION,START DISCHARGE,SIZE,PART NUMBER
+Steel,350,"1/4"" MNPT",A1325
+Aluminum,265,"3/4"" MNPT",A1301B
+,265,"1-1/4"" MNPT",A1310B

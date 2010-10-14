@@ -1,0 +1,583 @@
+Fisher First Stage Regulators
+
+CAPACITY,INLET,OUTLET,OUTLET,OUTLET,TYPE
+BTU/HR,CONNECTION,CONNECTION,RANGE,SETTING,NUMBER
+"900,000","1/4""FNPT","1/2""FNPT",non-adjustable,10psign/a,R312H21
+"2,000,000","1/2""FNPT","1/2""FNPT",4-6psig,5psig,R622HBGK
+"2,100,000","1/2""FNPT","1/2""FNPT",8-12psig,10psig,R622HBGJ
+"2,250,000",FPOL,"1/2""FNPT",8-12psig,10psig,R622HHGJ
+"2,250,000",FPOL,"3/4""FNPT",4-6psig,5psig,R622HJGK
+"2,250,000",FPOL,"3/4""FNPT",8-12psig,10psig,R622HJGJ
+"2,400,000","3/4""FNPT","3/4""FNPT",8-12psig,10psig,R622HDGJ
+
+Fisher Second Stage Regulators
+
+CAPACITY,INLET,OUTLET,OUTLET,OUTLET,TYPE
+BTU/HR,CONNECTION,CONNECTION,RANGE,SETTING,NUMBER
+"4,000,001","1/4""FNPT","1/2""FNPT",nominal2psig,non-adjust.,R312E30
+"12,500,001",1/2“FNPT,1/2“FNPT,1-2.2psig,2psig,R622EBCH
+"15,000,001",3/4“FNPT,"3/4""FNPT",1-2.2psig,2psig,R622EDCH
+"875,000","1/2""FNPT","1/2""FNPT","9“-13""wc","11""wc",R622BCF
+"1,100,000","3/4""FNPT","3/4""FNPT","9“-13""wc","11""wc",R652DFF
+"1,400,000","1/2""FNPT","3/4""FNPT","9“-13""wc","11""wc",R622CFF
+"1,400,000","3/4""FNPT","3/4""FNPT","9“-13""wc","11""wc",R622DFF
+"2,100,000","3/4""FNPT","3/4""FNPT","13""-20”wc",18“wc,S102KLBFC
+"2,100,000","1""FNPT","1""FNPT","9""-13”wc","11""wc",S102KLCFC
+"2,100,000","34""FNPT","3/4""FNPT","9""-13”wc","11""wc",S102KLFFC
+"2,100,000",1“FNPT,1“FNPT,9“-13”wc,"11""wc",S102KLKFC
+
+Fisher Integral Two-Stage Regulators
+
+CAPACITY,INLET,OUTLET,OUTLET,OUTLET,TYPE
+BTU/HR,CONNECTION,CONNECTION,RANGE,SETTING,NUMBER
+"275,000","1/4""FNPT",1/2“FNPT,"9.5""-13""wc","11""wc",R33241
+"700,000","1/4""FNPT","1/2""FNPT","9.5""-13""wc","11""wc",R632BCF
+"700,000",FPOL,"1/2""FNPT","9.5""-13""wc","11""wc",R632HCF
+"750,000","1/4""FNPT","3/4""FNPT","9.5""-13""wc","11""wc",R632CFF
+"750,000",FPOL,"3/4""FNPT","9.5""-13""wc","11""wc",R632JFF
+
+Fisher Mounting Brackets
+
+,BRACKET STYLE
+TYPE,TRIANGLE,BOWTIE
+"R622, R632,",P100A,---
+"R642, & R622H",---,P100C
+"R122H, R222, & R232",P100A,---
+
+
+Fisher Small Portable Appliance Regulators
+
+CAPACITY,INLET,OUTLET,OUTLET,TYPE
+BTU/HR,CONNECTION,CONNECTION,SETTING,NUMBER
+,"1/4""FNPT","3/8""FNPT","11""wc",912101
+"320,000","1/4""FNPT","1/4""FNPT","11""wc",912104
+,MPOL,3/8“FNPT,"11""wc",912122
+
+Fisher Automatic Changeover Regulators
+
+CAPACITY,INLET,OUTLET,,TYPE NUMBER
+BTU/HR,CONNECTION,CONNECTION,INCLUDES,STD. RELIEF,HI. CAP. RELIEF
+"125,000","1/4""Inv.Flare","3/8""FNPT",R110&912,R96121,---
+"600,000","1/4""Inv.Flare","1/2""FNPT",R110&R622,---,R96231
+
+Fisher Changeover Manifold Assemblies
+
+CAPACITY,INLET,OUTLET,SUPPLY,RESERVE,TYPE
+BTU/HR,CONNECTION,CONNECTION,PRESSURE,PRESSURE,NUMBER
+"500,000","1/4""Inv.Flare","1/4""FNPT",15psig,7psig,R11021
+"1,475,000","1/4""FNPT","1/4""FNPT",45psig,30psig,R13021
+"1,500,000",1/2“FNPT,1/2“FNPT,15psig,5psig,749B21
+
+Fisher Commercial / Industrial Regulators First Stage
+
+Capacity,ORIFICE,INLET/OUTLET,OUTLET ADJ.,OUTLET PRESS.,TYPE
+BTU/HR,SIZE,CONNECTION,RANGE PSI,SETTING PSI,NUMBER
+"6,080,000","3/8""","3/4"" FNPT",5-20 psig,10 psig,6275810
+"10,755,000","1/2""","3/4"" FNPT",5-20 psig,10 psig,6276210
+"10,773,000","1/2""","1"" FNPT",5-20 psig,10 psig,6277710
+"14,000,000","1/2""","2"" FNPT",8-20 psig,10 psig,63010478
+
+Fisher Commercial / Industrial Regulators 299H Series Second Stage
+
+CAPACITY,ORIFICE,INLET,OUTLET,OUTLETPRESSURE,OUTLETPRESSURE,TYPE
+BTU/HR,SIZE,CONNECTION,CONNECTION,RANGE,SETTING,NUMBER
+"197,000,001","3/4""","2""FNPT","2""FNPT","9""-20""wc(22-50mbar)","11""wc(27mbar)",299H102
+"380,000,002","3/4""","2""FNPT","2""FNPT","6-16psig 0,41-1,1bar()","10psig(0,69bar)",299H104
+"204,000,003","3/4""","2""FNPT","2""FNPT","9""-20""wc(22-50mbar)","11""wc(27mbar)",299H106
+"380,000,004","3/4""","2""FNPT","2""FNPT","6-16psig(0,41-1,1bar)","10psig(0,69bar)",299H108
+
+Fisher Commercial /Industrial Regulators 99 Series
+
+,,OUTLET,OUTLET
+,ORIFICE,PRESS.,PRESS.,,Propane Gas Capacity in Thousands of BTU/Hr. at Following Inlet Pressures,,,,,,,TYPE
+DESCRIPTION,SIZE,RANGE PSIG,SETTING PSIG,5PSIG,10PSIG,20PSIG,30PSIG,50PSIG,75PSIG,100PSIG,150PSIG,NUMBER
+,,,0.25,"11,340","17,955","29,295","36,225","53,550","74,025","92,925","135,450"
+,"7/8""",.25 to 2,0.50,"11,340","17,955","29,295","36,225","53,550","74,025","92,925","135,450",99510
+,,,2,"9,300","15,750","29,295","36,225","53,550","74,025","92,925","135,450"
+,,,1,"10,395","17,010","29,295","36,225","53,550","74,025","92,925","135,450"
+,,1 to 5,3,---,"15,120","29,295","36,225","53,550","74,025","92,925","135,450",99511
+,,,5,---,"13,230","28,350","36,225","53,550","74,025","92,925","135,450"
+Can be,,,2,"9,450","15,750","29,295","36,225","53,550","74,025","92,925","135,450"
+used for,,2 to 10,5,---,"13,230","28,350","36,225","53,550","74,025","92,925","135,450",99513
+First Stage,,,10,---,---,"22,680","36,225","53,550","74,025","92,925","135,450"
+or,,,5,---,"13,230","28,350","36,225","53,550","74,025","92,925","135,450"
+Second,,5 to 15,10,---,---,"22,680","36,225","53,550","74,025","92,925","135,450",99512
+Stage,,,15,---,---,"17,010","31,500","53,550","74,025","92,925","135,450"
+,,,10,---,---,"22,680","36,225","53,550","74,025","92,925","135,450"
+,,10 to 20,15,---,---,"17,010","31,500","53,550","74,025","92,925","135,450",99515
+,,,20,---,---,---,"26,775","53,550","74,025","92,925","135,450"
+,,,20,---,---,---,"26,775","53,550","74,025","92,925","135,450"
+,,10 to 65,40,---,---,---,---,"33,075","70,875","92,925","135,450",99903
+,,,60,---,---,---,---,---,"47,250","83,475","135,450"
+Second,,,0.25,"18,900","29,925","48,825","61,425","89,775","122,850","155,925","225,225"
+Stage,1-1/8“,.25 to 2,0.50,"18,900","29,925","48,825","61,425","89,775","122,850","155,925","225,225",99501
+150PSI,,,2,"15,750","26,775","48,825","61,425","89,775","122,850","155,925","225,225"
+,,,1,"17,325","28,350","48,825","61,425","89,775","122,850","155,925","225,225"
+,,1 to 5,3,---,"26,775","48,825","61,425","89,775","122,850","155,925","225,225",99502PH
+,,,5,---,"22,050","47,250","61,425","89,775","122,850","155,925","225,225"
+,,,2,"15,750","26,775","48,825","61,425","89,775","122,850","155,925","225,225"
+Canbe,,2 to 10,5,---,"22,050","47,250","61,425","89,775","122,850","155,925","225,225",99503PH
+usedfor,,,10,---,---,"37,800","61,425","89,775","122,850","155,925","225,225"
+First,,,5,---,"22,050","47,250","61,425","89,775","122,850","155,925","225,225"
+Stage,1-1/8“,5 to 15,10,---,---,"37,800","61,425","89,775","122,850","155,925","225,225",99504PH
+or,,,15,---,---,"28,350","53,550","89,775","122,850","155,925","225,225"
+Second Stage,,,10,---,---,"37,800","61,425","89,775","122,850","155,925","225,225"
+,,10 to 20,15,---,---,"28,350","53,550","89,775","122,850","155,925","225,225",99505PH
+,,,20,---,---,---,"44,100","89,775","122,850","155,925","225,225"
+,,,20,---,---,---,"53,550","89,775","122,850","155,925","225,225"
+,,10 to 65,40,---,---,---,---,"55,125","116,550","155,925","225,225",99901PH
+,,,60,---,---,---,---,---,"78,750","138,600","225,225"
+
+Fisher Commercial Industrial Regulators
+
+,CAPACITY,INLET&OUTLET,OUTLET,OUTLET,TYPE
+DESCRIPTION,BTU/HR,CONNECTION,RANGE,SETTING,NUMBER
+,"5,670,000","1-1/4""FNPT","6""-14""WC","11""WC",S302GFMC
+,"7,497,000","1-1/2""FNPT","6""-14""WC","11""WC",S302GKMC
+Second,"7,497,000","2""FNPT","6""-14""WC","11""WC",S302GSMC
+Stage,"8,000,000","1-1/2""FNPT","9""-18""WC","11""WC",S202GBNC
+,"12,500,000","2""FNPT","9""-18""WC","11""WC",S202GCNC
+,"70,875,000","2""FNPT","8.5""-18""WC","14""WC",133L4
+,"66,150,000","2""FNPT",1.5-3PSIG,3PSIG,133H1
+
+Fisher High Pressure Regulators
+
+,CAPACITY,INLET&OUTLET,OUTLET,OUTLET,TYPE
+DESCRIPTION,BTU/HR,CONNECTION,RANGE,SETTING,NUMBER
+,"2,625,000","1/2""FNPT",3-15PSIG,10PSIG,6433
+Basic,"3,600,000",,5-35PSIG,20PSIG,6435
+Regulator,"4,150,000",,30-60PSIG,40PSIG,6436
+,"5,250,000",,35-100PSIG,50PSIG,64222
+with,"2,625,000",,3-15PSIG,10PSIG,64SR21
+Internal,"3,000,000","1/2""FNPT",5-20PSIG,15PSIG,64SR22
+ReliefValve,"3,600,000",,5-35PSIG,20PSIG,64SR23
+BasicRegulator,"700,000",,5-35PSIG,20PSIG,67CW684
+(Wrench,"700,000","1/4""FNPT",30-60PSIG,40PSIG,67CW685
+Adjustment),"1,150,000",,35-100PSIG,50PSIG,67CW701
+Basic Regulator,"700,000",,5-35PSIG,20PSIG,67CH743
+(Handwheel,"700,000","1/4""FNPT",30-60PSIG,40PSIG,67CH742
+Adjustment),"1,150,000",,35-100PSIG,50PSIG,67CH741
+DialCap,"600,000",,5-20PSIG,20PSIG,67CD101
+Adjustment,"700,000","1/4""FNPT",20-60PSIG,40PSIG,67CD102
+,"1,150,000",,60-100PSIG,50PSIG,67CD103
+,"600,000",,---,10PSIG,67CN106
+Nonadjustable,"600,000","1/4""FNPT",---,15PSIG,67CN104
+,"700,000",,---,20PSIG,67CN105
+
+Fisher Pigtails
+
+PIGTAIL CONNECTIONS,,SIZE,LENGTH,NUMBER
+,,,"12""",K845A
+,,"1/4""","18""",K840A
+,,,"30""",K841A
+,Economy,,"36""",K846A
+,MalePOL,,"6""",K865A
+Economy,,"3/8""","12""",K862A
+Male,,,"18""",K860A
+POL,,,"30""",K861A
+,"1/4""InvertedFlare","1/4""","18""",K880A
+,,,"6""",K807A
+,,"1/4""","18""",K805A
+,"1/4""MNPT",,"12""",K460A
+,,"3/8""","30""",K462A
+,,,"36""",K463A
+,"1/2""MNPT","3/8""","12""",K832A
+,,,"20""",K160A
+,,"1/4""","30""",K161A
+,Standard,,"36""",K162A
+,MalePOL,,"48""",K166A
+,,,"20""",K200A
+,,"3/8""","30""",K201A
+,,,"36""",K202A
+Standard,,,"20""",K240A
+Male,"1/4""InvertedFlare","1/4""","30""",K241A
+POL,,,"36""",K249A
+,,,"20""",K280A
+,"1/4""MNPT","1/4""","30""",K281A
+,,,"36""",K282A
+,,,"48""",K286A
+,"1/2""MNPT","3/8""","12""",K520A
+HeavyDuty,HeavyDuty,,"20""",K100A
+Male,Male,"1/4""","36""",K103A
+POL,POL,,"48""",K104A
+,"1/4""InvertedFlare","1/4""","20""",K220A
+,,,"36""",K230A
+
+Manifolds
+
+,,TYPE OF MANIFOLD
+PIGTAIL/PIPING,REGULATOR,TeeBlock,Tee,Manual
+CONNECTION,CONNECTION,(w/oCheck),Check,Changeover
+,FemalePOL,P403,---,---
+,MalePOL,MEP400,---,---
+FemalePOL,MalePOL,---,P410,---
+,"1/4""MNPT",---,MEP413,---
+,"1/4""MNPT",---,P414,---
+"1/4""Inv.Flare","1/4""MNPT",---,---,MEP456A
+
+Container Thermometer
+
+CONTAINER,STEM,TYPE
+CONNECTION,LENGTH,NUMBER
+"1/2""MNPT","4""",J700X
+"1/2""MNPT","6""",J701X
+
+Thermowell
+
+THERMOWELL,TYPE
+DESCRIPTION,NUMBER
+"3/4""M.Pipex1/2""F.Pipe",260304
+"1""M.Pipex1/2""F.Pipe",160304
+
+Fisher Vent Assemblies
+
+,,VENT STYLE (TYPE)
+SIZE,STABILIZER,Umbrella,Angle
+"1/4""FNPT",NO,---,Y60213
+"1/4""FNPT",YES,---,Y60214
+"1/4""MNPT",NO,Y6021,---
+"1/4""MNPT",YES,Y6022,---
+"3/8""FNPT",NO,---,Y6025
+"3/8""FNPT",YES,---,Y6026
+"1/2""FNPT",NO,---,Y6027
+"1/2""FNPT",YES,---,Y6028
+"3/4""FNPT",NO,---,Y6029
+
+Test Gauge Assemblies
+
+INLET,,PLASTIC,TYPE
+CONNECTION,HOSE,CONTAINER,NUMBER
+"1/4""MNPT",No,No,502
+FemaleHose,Yes,Yes,ME50P2
+FemaleHose,Yes,No,50P5
+
+Pressure Gauges
+
+BOTTOM CONNECTION,PRESURE GAUGES
+PSI,TYPE
+RANGE,NUMBER
+0-15,J500A
+0-30,J501A
+0-60,J502A
+0-100,J503A
+0-300,J506A
+0-400,J542A*
+
+BACK CONNECTION,PRESSURE GAUGES
+PSI,TYPE
+RANGE,NUMBER
+0-15,J510A
+0-30,J511A
+0-60,J512A
+0-100,J513A
+
+STAINLESS STEEL,PRESURE GAUGES
+PSI,TYPE
+RANGE,NUMBER
+0-60,AA31660
+0-150,AA316150
+0-400,AA316400
+
+LIQUID FILLED,PRESURE GAUGES
+,TYPE
+DESCRIPTION,NUMBER
+0-400BottomConn.,LF4001
+0-400BackConn.,LF4002
+
+Marshall Gas Controls Low Pressure Regulator
+
+CAPACITY BTU/HR.,INLET CONNECTION,OUTLET CONNECTION,TYPE NUMBER
+"210,000","1/4""FNPT","3/8""FNPT",23000
+
+Marshall Gas Controls Two Stage Regulator
+
+CAPACITY BTU/HR.,INLET CONNECTION,OUTLET CONNECTION,TYPE NUMBER
+"90,000","1/4""FNPT","3/8""FNPT",29000
+
+Marshall Gas Controls Two Stage Automatic Changeover Regulator
+
+CAPACITY BTU/HR.,INLET CONNECTION,OUTLET CONNECTION,TYPE NUMBER
+"210,000","1/4""Inv.Flare","3/8""FNPT",25400
+
+Marshall Gas Controls One Piece Two Stage Regulator
+
+CAPACITY BTU/HR.,INLET CONNECTION,OUTLET CONNECTION,VENT,TYPE NUMBER
+"90,000","1/4""FNPT","3/8""FNPT",9:00,29900
+
+Marshall Gas Controls Adjustable Fish Fryer Regulator
+
+INLET CONNECTION,OUTLET CONNECTION,TYPE NUMBER
+"1/4"" FNPT","1/4"" FNPT",3500
+
+Marshall Gas Controls 290 Series Regulator Cover
+
+DESCRIPTION,TYPE NUMBER
+Fits 290 Series Regulators,86300
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+,,,,,TYPE
+,,,,,NUMBER
+,,,,,2033CL
+,,,,,2033CLDB
+,,,,,2033CLDBP
+
+,,,,,ReliefValveStartto,TYPE
+,,,,,DischargeSetting,NUMBER
+,,,,,375psig,2030BC
+
+
+
+
+,,,,,,TYPE
+,,,,,75,NUMBER
+,,,,,60,1855SD
+,,,,,60,1855SD30
+,,,,,60,1855SPD
+,,,,,60,1855SD90
+,,,,,158,623B
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+,,,,,,TYPE
+,,,,,ASME,NUMBER
+,,,,,68,433AM
+,,,,,68,433AC
+,,,,,105,443AM
+,,,,,105,443AC
+,,,,,216,453AM
+,,,,,216,453AC
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+,,,,,TYPE
+,,,,,NUMBER
+,,,,,3359PDLG
+
+
+
+
+
+
+
+
+
+,,,,,,PIPEAWAY,TYPE
+,,,,,ASME,ADAPTER,NUMBER
+,,,,,---,43545/43590,435A
+,,,,,---,43545/43590,435L
+
+
+
+,,,,,,PIPEAWAY,TYPE
+,,,,,ASME,ADAPTER,NUMBER
+,,,,,33,44521,445AM
+,,,,,43,44521,445AR
+,,,,,---,44521,445AT
+,,,,,22,43621,436BR

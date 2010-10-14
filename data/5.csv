@@ -1,0 +1,90 @@
+Squibb Taylor Domestic Tank Gauges
+
+MOUNTING,GAUGE,TANK DIAMETER,PART NUMBER
+,"Junior (H=1/2"")","24""",JA124I
+,"Junior (H=1/2"")","30""",JA154I
+,"Junior (H=1/2"")","37""",JA192J
+,"Junior (H=1/2"")","41""",JA206I
+,"Senior (H=1"")","24""",SA130A
+,"Senior (H=1"")","30""",SA160A
+,"Senior (H=1"")","37""",SA194A
+Top,"Senior (H=1"")","41""",SA214A
+,"1"" Threaded Brass (H=1"")","24""",HA130A
+,"1"" Threaded Brass (H=1"")","30""",HA160A
+,"1"" Threaded Brass (H=1"")","37""",HA194A
+,"1"" Threaded Brass (H=1"")","41""",HA210A
+,"1-1/4"" Threaded Brass (H=1"")","24""",TA130A
+,"1-1/4"" Threaded Brass (H=1"")","30""",TA160A
+,"1-1/4"" Threaded Brass (H=1"")","37""",TA194A
+,"1-1/4"" Threaded Brass (H=1"")","41""",TA210A
+
+"Squibb Taylor ""Master Visible"" Gauges for LP-Gas Storage Tanks"
+
+GASKET,BOLTHOLES,DESCRIPTION,PART NUMBER
+,8Holes,96inches4102BEndMTLPFloatGauge,MD320A
+Spirotallic,4Holes,108inches4102AEndMTLPFloatGauge,MD360B
+Gasket,8Holes,108inches4102BEndMTLPFloatGauge,MD360C
+,8Holes,130inches4102BEndMTLPFloatGauge,MD380F
+
+"Squibb Taylor Magnetel ""Rough Rider"" Liquid Level Gauge"
+
+CONTAINER SIZE,PART NUMBER
+"72"" Magnetel End Mount with Rochester Rough Rider 4"" LP",63391172
+"79"" Magnetel End Mount with Rochester Rough Rider 4"" LP",63391179
+"84"" Magnetel End Mount with Rochester Rough Rider 4"" LP",63391184
+"87"" Magnetel End Mount with Rochester Rough Rider 4"" LP",63391187
+"96"" Magnetel End Mount with Rochester Rough Rider 4"" LP",63391196
+
+Squibb Taylor 4102 Master LP Dial Assembly
+
+DESCRIPTION,PART NUMBER
+4102MasterLPDialAssembly,4102D
+
+"Squibb Taylor Jr. and Sr. ""2"" LP Dial Assembly"
+
+DESCRIPTION,PART NUMBER
+"Jr.LPVisible""2""DialAssembly",JRLP2
+"Sr.LPVisible""2""DialAssembly",SRLP2
+
+Squibb Taylor Replacement Dials
+
+FLOAT GAUGE,DESCRIPTION,REF. NO.,PART NUMBER
+Fits any float gauge ever built.,JuniorDialKit,1,3181S17
+,SeniorDialKit,2,3180S17
+,JuniorDialOnly,---,5909
+,SeniorDialOnly,---,5986
+
+"Squibb Taylor Visible ""4"" LP Dial Assembly"
+
+DESCRIPTION,PART NUMBER
+"Visible""4""DialAssembly",4DIAL
+
+Squibb Taylor Float Gauge Drill Guide
+
+DESCRIPTION,REF. NO.,PART NUMBER
+Jr.FloatGaugeDrillGuide,1,FGDG
+Sr.FloatGaugeDrillGuide,2,FGDGSR
+
+Squibb Taylor Replacement Parts
+
+DESCRIPTION,PART NUMBER
+Jr.GaugeReplacementGasket,JRGG
+Sr.GaugeReplacementGasket,SRGG
+Jr.GaugeScrew,JRGS
+Sr.GaugeScrew,SRGS
+
+Squibb Taylor FVC Threaded Adapters
+
+TANK CONNECTION,GAUGE SIZE,FOR USE WITH THESE GAUGES,REF. NO.,PART NUMBER
+,,"Senior,Visible""4""Senior"
+"2""NPT",Senior,"orMasterModel""A""or""C""",1,5305
+,,"4-Bolt,2-1/2""BoltCircle"
+"2-1/2""NPT",Master,"MasterModel""B""",2,5331
+
+Squibb Taylor Magnetic Flow Indicators
+
+DESCRIPTION,PART NUMBER
+"Taylor-Flow/No.5305(2"")adaptorfor2""NPT",55202
+"Taylor-Flow/No.5318(2-1/2"")adaptorfor2""NPTorpipe",5520212
+"Taylor-Flow/No.5305(2"")adaptorfor3""pipe",55203
+DialAssemblyonly,5520DIAL
