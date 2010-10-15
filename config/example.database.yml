@@ -1,0 +1,9 @@
+---
+# database credentials
+production: &defaults
+  adapter:  mysql
+  database: db_name
+  username: jade
+  password: "happyseeding"
+  host: localhost
+  

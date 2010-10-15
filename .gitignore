@@ -6,6 +6,7 @@ tmp/**/*
 config/database.yml
 config/sendgrid.yml
 config/deploy.rb
+Capfile
 public/system/*
 
 Thumbs.db
