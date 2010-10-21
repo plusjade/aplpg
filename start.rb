@@ -21,7 +21,7 @@ get '/products' do
   
   @cats           = Category.all
   @meta           = ''
-  @page_title     = "Sample Product Listings"
+  @page_title     = "Product Listings"
   @page_subtitle  = "All Propane LPG carries an extensive inventory of products from all major brands."
   @active_page    = 'products'
   @content        = erb :"products/index"
